@@ -2,3 +2,5 @@
 dist
 node_modules
 pycetra-trial-*.vsix
+__pycache__
+out/
